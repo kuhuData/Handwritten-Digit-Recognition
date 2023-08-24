@@ -11,7 +11,7 @@ This project implements a Handwritten Digit Recognition System using the MNIST d
 - [Table of Contents](#table-of-contents)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Data Processing](#data-processing)
+- [Data Preprocessing](#data-preprocessing)
 - [Results](#results)
 - [Acknowledgements](#acknowledgements)
 - [Author](#author)
