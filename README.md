@@ -32,15 +32,15 @@ This project implements a Handwritten Digit Recognition System using the MNIST d
 
 ### Sample Images
 
-![Sample Images](Sample_Data.png)
+![Sample Images](Sample Data.png)
 
 ### Training History
 
-![Training History](Training_History.png)
+![Training History](Training History.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](Confusion_Matrix.png)
+![Confusion Matrix](Confusion Matrix.png)
 
 ### Visualizing Predictions
 
