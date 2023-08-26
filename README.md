@@ -84,4 +84,5 @@ The model architecture is defined and compiled using TensorFlow's Keras API.
 
 - Your Name
 - GitHub: [@kuhuData](https://github.com/kuhuData)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-name/)
 
